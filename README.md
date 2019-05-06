@@ -1,2 +1,2 @@
 # ConfigRepoDemo
-Spring Could Config Repo Demo
+Spring Cloud Config Repo Demo
